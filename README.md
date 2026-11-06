@@ -1,44 +1,94 @@
+# 👋 Hi, I'm Arsalan Younis
 
-# ARSALAN YOUNIS
+### Software Engineering Graduate | Networking Intern | CCNA Learner
 
-### Software Engineering Graduate | Front-End Developer | Networking Intern
+I'm a Software Engineering graduate with an interest in Computer Networking, IT Infrastructure, and Web Development.
 
-I am a Software Engineering graduate interested in Web Development and Computer Networking. Currently, I am learning Cisco CCNA and building practical networking skills.
+Currently, I'm gaining practical experience as a Networking Intern at **FirstStep Communication** while preparing for Cisco CCNA certification and building hands-on networking labs using Cisco Packet Tracer.
 
-## 💻 Technical Skills
-- HTML
-- CSS
+My goal is to develop strong technical skills in Enterprise Networking, Routing & Switching, and Network Security.
+
+---
+
+### 🌐 Networking Skills & Knowledge
+
+- Networking Fundamentals
+- IP Addressing and Subnetting
+- LAN Configuration
+- Routing and Switching
+- DHCP Configuration
+- Router Basic Configuration
+- Static Routing
+- Network Troubleshooting
+- Cisco Packet Tracer
+
+### 💻 Development Skills
+
+- HTML5
+- CSS3
 - Bootstrap
 - Responsive Web Design
 
-## 🌐 Networking Knowledge
-- Networking Fundamentals
-- IP Addressing & Subnetting
-- Routing & Switching
-- Cisco Packet Tracer
+### 🛠️ Tools & Technologies
 
-## 📚 Currently Learning
+- Cisco Packet Tracer
+- Git & GitHub
+- Visual Studio Code
+- Microsoft Office
+
+### 📚 Currently Learning
+
 - Cisco CCNA
 - Network Administration
+- Advanced Routing & Switching
 - Network Troubleshooting
 - Network Security
+- Enterprise Network Infrastructure
 
-## 🚀 Career Goals & Professional Interests
+---
 
-- Network Engineer
-- Network Security Engineer
-- Network Infrastructure Engineer
-- Network Operations Center (NOC) Engineer
+### 🚀 Featured Projects
+
+**1. Cisco Packet Tracer Networking Labs**
+
+My hands-on networking practice covering:
+
+- Basic PC-to-PC Communication
+- Basic LAN Configuration
+- Static IP Addressing and DHCP
+- Subnet Mask Practice
+- Default Gateway Configuration
+- Router Basic Configuration
+- Static Routing and Network Connectivity
+
+🔗 [Explore My Packet Tracer Labs](https://github.com/Arslan-07/Packet-Tracer-Lab)
+
+**2. Web Development Projects**
+
+Practical front-end development projects using HTML, CSS, and Bootstrap.
+
+🔗 [Explore My Repositories](https://github.com/Arslan-07?tab=repositories)
+
+---
+
+### 🎯 Career Interests
+
+- Network Support Engineer
 - Network Administrator
-- Systems & Network Administrator
-- IT Infrastructure Engineer
-- Cloud Network Engineer
-- Network Automation Engineer
-- Cybersecurity & Network Security
-- Enterprise Network Solutions
-- Routing, Switching & Network Architecture
+- NOC Engineer
+- Network Infrastructure Engineer
+- Network Security Engineer
 
-**Long-Term Goal:** To become a highly skilled Network Engineer, specialize in Enterprise Networking and Network Security, and build an international career in the IT infrastructure industry.
+**Long-Term Goal:** To become a skilled Network Engineer specializing in Enterprise Networking and Network Security, and build an international career in IT Infrastructure.
 
-## 📫 Connect With Me
-- GitHub: [Arslan-07](https://github.com/Arslan-07)
+---
+
+### 🤝 Connect With Me
+
+- **GitHub:** [Arslan-07](https://github.com/Arslan-07)
+- **LinkedIn:** [Arsalan Younis](https://www.linkedin.com/in/arsalan-younis)
+- **Email:** engr.arsalan.younis@gmail.com
+
+---
+
+⭐ *Learning every day, building practical skills, and growing in the world of networking.*
